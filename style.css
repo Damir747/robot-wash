@@ -70,7 +70,8 @@ h3 {
 }
 
 .page__section__advantages,
-.page__section__price {
+.page__section__price,
+.page__section__address {
 	min-height: 100vh;
 }
 
@@ -338,6 +339,7 @@ nav a:focus {
 .gallery__item__container,
 .contacts__item__container,
 .address__item__container,
+.map,
 .h1__header,
 .h2__header,
 .h3__header {
@@ -695,7 +697,11 @@ figure .static-qr-code {
 	.map {
 		padding: 3% 0px;
 		max-height: 250px;
-		width: 23%;
+		width: 22.9%;
+	}
+
+	.map1 {
+		margin-left: 0;
 	}
 
 	.map .phone-border {
@@ -728,17 +734,18 @@ figure .static-qr-code {
 		width: 110px;
 	}
 
-	.map {
-		padding: 3% 0px;
-		max-height: 250px;
-	}
-
 	.messager {
 		width: 31.3%;
 	}
 
 	.map {
-		width: 23%;
+		padding: 3% 0px;
+		max-height: 250px;
+		width: 22.9%;
+	}
+
+	.map1 {
+		margin-left: 0;
 	}
 
 	.map .phone-border {
@@ -784,17 +791,18 @@ figure .static-qr-code {
 		width: 110px;
 	}
 
-	.map {
-		padding: 3% 0px;
-		max-height: 230px;
-	}
-
 	.messager {
 		width: 31.3%;
 	}
 
 	.map {
-		width: 23%;
+		padding: 3% 0px;
+		max-height: 230px;
+		width: 22.7%;
+	}
+
+	.map1 {
+		margin-left: 0;
 	}
 
 	.map .phone-border {
@@ -840,20 +848,21 @@ figure .static-qr-code {
 		width: 110px;
 	}
 
-	.map {
-		padding: 3% 0px;
-		max-height: 220px;
-		-moz-box-shadow: 0 0 3px var(--shadow-color);
-		-webkit-box-shadow: 0 0 3px var(--shadow-color);
-		box-shadow: 0 0 3px var(--shadow-color);
-	}
-
 	.messager {
 		width: 31.3%;
 	}
 
 	.map {
-		width: 23%;
+		padding: 3% 0px;
+		max-height: 220px;
+		-moz-box-shadow: 4px 2px 2px var(--shadow-color);
+		-webkit-box-shadow: 4px 2px 2px var(--shadow-color);
+		box-shadow: 4px 2px 2px var(--shadow-color);
+		width: 22.7%;
+	}
+
+	.map1 {
+		margin-left: 0;
 	}
 
 	.map .phone-border {
@@ -899,20 +908,17 @@ figure .static-qr-code {
 		width: 100px;
 	}
 
-	.map {
-		padding: 5% 0px;
-		max-height: 220px;
-		-moz-box-shadow: 0 0 3px var(--shadow-color);
-		-webkit-box-shadow: 0 0 3px var(--shadow-color);
-		box-shadow: 0 0 3px var(--shadow-color);
-	}
-
 	.messager {
 		width: 31.3%;
 	}
 
 	.map {
-		width: 48%;
+		padding: 5% 0px;
+		max-height: 220px;
+		-moz-box-shadow: 4px 2px 2px var(--shadow-color);
+		-webkit-box-shadow: 4px 2px 2px var(--shadow-color);
+		box-shadow: 4px 2px 2px var(--shadow-color);
+		width: 47%;
 	}
 
 	.map .phone-border {
@@ -958,20 +964,17 @@ figure .static-qr-code {
 		width: 90px;
 	}
 
-	.map {
-		padding: 5% 0px;
-		max-height: 190px;
-		-moz-box-shadow: 0 0 3px var(--shadow-color);
-		-webkit-box-shadow: 0 0 3px var(--shadow-color);
-		box-shadow: 0 0 3px var(--shadow-color);
-	}
-
 	.messager {
 		width: 48%;
 	}
 
 	.map {
-		width: 48%;
+		padding: 5% 0px;
+		max-height: 190px;
+		-moz-box-shadow: 4px 2px 2px var(--shadow-color);
+		-webkit-box-shadow: 4px 2px 2px var(--shadow-color);
+		box-shadow: 4px 2px 2px var(--shadow-color);
+		width: 47%;
 	}
 
 	.map .phone-border {
@@ -1017,20 +1020,17 @@ figure .static-qr-code {
 		width: 90px;
 	}
 
-	.map {
-		padding: 5% 0px;
-		max-height: 190px;
-		-moz-box-shadow: 0 0 3px var(--shadow-color);
-		-webkit-box-shadow: 0 0 3px var(--shadow-color);
-		box-shadow: 0 0 3px var(--shadow-color);
-	}
-
 	.messager {
 		width: 48%;
 	}
 
 	.map {
-		width: 48%;
+		padding: 5% 0px;
+		max-height: 190px;
+		-moz-box-shadow: 4px 2px 2px var(--shadow-color);
+		-webkit-box-shadow: 4px 2px 2px var(--shadow-color);
+		box-shadow: 4px 2px 2px var(--shadow-color);
+		width: 47%;
 	}
 
 	.map .phone-border {
