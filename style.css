@@ -1,3 +1,9 @@
+:root {
+	--primary-color: lightblue;
+	--secondary-color: #FD8B0B;
+	--tertiary-color: #10C812;
+}
+
 body,
 html {
 	height: 100%;
@@ -125,7 +131,7 @@ nav a:focus {
 	left: 0;
 	width: 100%;
 	z-index: 10;
-	background-color: lightblue;
+	background-color: var(--primary-color);
 
 }
 
@@ -272,7 +278,7 @@ nav a:focus {
 		top: 0;
 		left: 0;
 		height: 50px;
-		background-color: lightblue;
+		background-color: var(--primary-color);
 		z-index: 2;
 	}
 
@@ -331,7 +337,7 @@ nav a:focus {
 	background-color: #fff;
 	border: black solid 1px;
 	border-radius: 10px;
-	box-shadow: 10px 5px 5px lightblue;
+	box-shadow: 10px 5px 5px var(--primary-color);
 }
 
 .gallery__item__container,
@@ -373,7 +379,7 @@ nav a:focus {
 	background-color: #fff;
 	border: black solid 1px;
 	border-radius: 10px;
-	box-shadow: 10px 5px 5px lightblue;
+	box-shadow: 10px 5px 5px var(--primary-color);
 }
 
 .gallery__video__frame {
@@ -385,7 +391,7 @@ nav a:focus {
 	background-color: #fff;
 	border: black solid 1px;
 	border-radius: 10px;
-	box-shadow: 10px 5px 5px lightblue;
+	box-shadow: 10px 5px 5px var(--primary-color);
 }
 
 .gallery__video {
@@ -413,7 +419,7 @@ nav a:focus {
 	background-color: #fff;
 	border: black solid 1px;
 	border-radius: 10px;
-	box-shadow: 10px 5px 5px lightblue;
+	box-shadow: 10px 5px 5px var(--primary-color);
 }
 
 .advantages__item__header {
@@ -456,7 +462,8 @@ nav a:focus {
 .gallery__item__time {
 	text-align: center;
 	font-size: 18px;
-	background-color: #FD8B0B;
+	background-color: var(--secondary-color);
+	;
 	padding: 10px;
 	border-radius: 10px;
 }
@@ -480,7 +487,8 @@ nav a:focus {
 	text-align: center;
 	font-size: 22px;
 	font-weight: 700;
-	background-color: #10C812;
+	background-color: var(--tertiary-color);
+	;
 	padding: 10px;
 	border-radius: 10px;
 }
@@ -522,7 +530,7 @@ nav a:focus {
 	background-color: #fff;
 	border: black solid 1px;
 	border-radius: 10px;
-	box-shadow: 10px 5px 5px lightblue;
+	box-shadow: 10px 5px 5px var(--primary-color);
 }
 
 .phone-border,
