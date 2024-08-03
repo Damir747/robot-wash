@@ -1,0 +1,301 @@
+.sw-app-body.sw-animation {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 15px;
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.rating-summary {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 10px 0 20px 0;
+	padding: 0 20px;
+	flex-wrap: wrap;
+}
+
+.rating-summary-content {
+	display: flex;
+	align-items: center;
+	margin: 10px 0;
+	padding: 0 20px;
+	flex-wrap: wrap;
+}
+
+.rating-stars {
+	display: flex;
+	/* Отображаем звезды в горизонтальном ряду */
+	margin: 10px;
+}
+
+.star {
+	width: 20px;
+	height: 20px;
+	background-color: #e0e0e0;
+	/* Цвет пустой звезды */
+	clip-path: polygon(50% 0%,
+			61% 35%,
+			98% 35%,
+			68% 57%,
+			79% 91%,
+			50% 70%,
+			21% 91%,
+			32% 57%,
+			2% 35%,
+			39% 35%);
+	margin-right: 2px;
+}
+
+.star.filled {
+	background-color: #ffd700;
+	/* Цвет полной звезды */
+}
+
+.star.half {
+	background: linear-gradient(to right, #ffd700 50%, #e0e0e0 50%);
+}
+
+.review-carousel {
+	position: relative;
+	overflow: hidden;
+	padding-bottom: 10px;
+}
+
+.swiper-wrapper {
+	display: flex;
+	flex-direction: row;
+	height: auto !important;
+}
+
+.swiper-slide {
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	transition: box-shadow 0.3s ease;
+	/* Добавляем плавный переход */
+}
+
+.swiper-slide:hover {
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	/* Добавляем тень при наведении */
+}
+
+@media (max-width: 920px) {
+	.swiper-slide {
+		width: 45%;
+		/* Два отзыва на экране */
+	}
+}
+
+@media (max-width: 480px) {
+	.swiper-slide {
+		width: 100%;
+		/* Один отзыв на экране */
+	}
+}
+
+.review {
+	background-color: #f9f9f9;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.review-header {
+	display: flex;
+	align-items: flex-start;
+	margin-bottom: 15px;
+}
+
+.user-icon-view__icon {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-size: cover;
+	background-position: center;
+	margin-right: 10px;
+	flex-shrink: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+	font-size: 20px;
+	background-color: #ccc;
+	/* Цвет фона для пользователей без аватаров */
+	text-align: center;
+	line-height: 50px;
+	/* Центрирование буквы */
+}
+
+.user-icon-view__icon._color_1 {
+	background-color: #b37db3;
+}
+
+.user-icon-view__icon._color_2 {
+	background-color: #f29d61;
+}
+
+.user-icon-view__icon._color_3 {
+	background-color: #50c0e6;
+}
+
+.user-icon-view__icon._color_4 {
+	background-color: #6ca632;
+}
+
+.user-icon-view__icon._color_5 {
+	background-color: #f285aa;
+}
+
+.user-icon-view__icon._color_6 {
+	background-color: #8585cc;
+}
+
+.user-icon-view__icon._color_7 {
+	background-color: #5798d9;
+}
+
+.user-icon-view__icon._color_8 {
+	background-color: #34b3a0;
+}
+
+.user-icon-view__icon._color_9 {
+	background-color: #e84a5f;
+}
+
+.review-info {
+	flex: 1;
+}
+
+.review-author {
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+.review-author a {
+	color: inherit;
+	/* Цвет наследуется от родителя */
+	text-decoration: none;
+	/* Убирает подчеркивание */
+}
+
+.review-author a:hover {
+	text-decoration: underline;
+	/* Опционально: подчеркивание при наведении */
+}
+
+.review-level {
+	font-size: 0.9em;
+	color: #666;
+	margin-bottom: 5px;
+}
+
+.review-rating {
+	display: flex;
+	align-items: center;
+	margin-bottom: 5px;
+}
+
+.review-rating .stars {
+	display: flex;
+	margin-right: 5px;
+}
+
+.star {
+	width: 16px;
+	height: 16px;
+	background-color: #ffd700;
+	/* цвет звезд */
+	clip-path: polygon(50% 0%,
+			61% 35%,
+			98% 35%,
+			68% 57%,
+			79% 91%,
+			50% 70%,
+			21% 91%,
+			32% 57%,
+			2% 35%,
+			39% 35%);
+	margin-right: 2px;
+}
+
+.review-date {
+	font-size: 0.9em;
+	color: #888;
+}
+
+.review-content {
+	position: relative;
+	flex-grow: 1;
+}
+
+.review-text {
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 3;
+	white-space: normal;
+	transition: max-height 0.3s ease;
+	/* Плавное изменение высоты */
+	max-height: calc(1.2em * 3);
+	/* Убедитесь, что высота достаточно для 3 строк текста */
+}
+
+.review-text.expanded {
+	-webkit-line-clamp: unset;
+	max-height: 1000px;
+	/* Значение, которое должно быть достаточно большим для всего текста */
+}
+
+.read-more {
+	display: block;
+	margin-top: 10px;
+	color: #007bff;
+	cursor: pointer;
+}
+
+.review-button {
+	display: inline-block;
+	padding: 10px 20px;
+	background-color: #007bff;
+	color: white;
+	text-decoration: none;
+	border-radius: 5px;
+	text-align: center;
+	white-space: nowrap;
+	transition: box-shadow 0.3s ease, transform 0.3s ease;
+	/* Добавляем плавный переход */
+}
+
+.review-button:hover {
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	/* Добавляем тень при наведении */
+	transform: translateY(-2px);
+	/* Опционально: небольшой сдвиг вверх для эффекта нажатия */
+}
+
+.carousel-button {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	background-color: rgba(0, 0, 0, 0.5);
+	color: white;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+	z-index: 10;
+}
+
+.prev {
+	left: 10px;
+}
+
+.next {
+	right: 10px;
+}

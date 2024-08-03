@@ -7,13 +7,15 @@
 	<title>Робот-мойка без щеток</title>
 	<link rel="canonical" href="https://роботмойка24.рф/вешняки/" />
 	<link rel="stylesheet" href="/style.css">
+	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+	<link rel="stylesheet" href="./reviews/reviews.css">
 	<link rel="icon" href="/favicon-120.ico" type="image/x-icon">
 	<meta name="keywords" content="робот-автомойка без щеток вешняки" />
 	<meta name="description" content="Роботизированная автомобильная мойка: Москва, Вешняковская, 34Б" />
 
 </head>
 
-<body>
+<body data-json-path="veshnyaki">
 	<header id="header" class="page__section__start">
 		<div class="header_main">
 			<div class="header__container">
@@ -31,6 +33,9 @@
 							</li>
 							<li class='menu_page__section__price'>
 								<a data-goto=".page__section__price" href="#" class="menu__link">Цены</a>
+							</li>
+							<li class='menu_page__section__reviews'>
+								<a data-goto=".page__section__reviews" href="#" class="menu__link">Отзывы</a>
 							</li>
 							<!-- <li class='menu_page__section__photos'>
 								<a data-goto=".page__section__photos" href="#" class="menu__link">Фотогалерея</a>
@@ -247,6 +252,38 @@
 
 	<div class="parallax-10"></div>
 
+	<div id="reviews" class="wrapper page__section__reviews">
+		<div class="inner">
+			<h2 class="h2__header reviews__header">
+				Отзывы
+			</h2>
+
+			<div class="sw-app-body sw-animation">
+				<div class="rating-summary">
+					<div class="rating-summary-content">
+						<span id="rating-value">4.8</span>&nbsp;из 5.0<span id="rating-stars">&nbsp;</span>на
+						основе&nbsp;<span id="review-count">295</span>&nbsp;<span id="review-declension">отзывов</span>
+					</div>
+
+					<a href="https://yandex.ru/maps/org/robot_moyka/230669992285/reviews/?add-review=true" target="_blank"
+						class="review-button" rel="nofollow">Оставить отзыв</a>
+				</div>
+
+				<div class="review-carousel swiper-container">
+					<div class="swiper-wrapper">
+						<!-- Слайды будут добавляться динамически -->
+					</div>
+					<!-- Кнопки управления каруселью -->
+					<button class="carousel-button prev" aria-label="Предыдущий отзыв">&#9664;</button>
+					<button class="carousel-button next" aria-label="Следующий отзыв">&#9654;</button>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+	<div class="parallax-10"></div>
+
 	<div id="address" class="wrapper page__section__address">
 		<div class="inner">
 			<h2 class="h2__header address__header">
@@ -343,7 +380,9 @@
 
 	<div class="parallax-5"></div>
 
-	<script src="/utils.js"></script>
+	<script async="" src="/utils.js"></script>
+	<script defer="" src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+	<script defer="" src="./reviews/reviews.js"></script>
 
 	<!-- Yandex.Metrika counter -->
 	<script type="text/javascript">

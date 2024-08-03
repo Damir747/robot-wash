@@ -1,0 +1,1324 @@
+{
+  "overallRating": 4.8,
+  "reviews": [
+    {
+      "businessComment": {
+        "text": "Спасибо за ваш отклик",
+        "updatedTime": "2023-12-21T14:31:56.797Z"
+      },
+      "reviewId": "wK4n6fQ0Zf1NwxoUr2nHvl8UEthgKR",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Инкогнито 8118",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 3 уровня",
+        "publicId": "cqyy0j1mpyt73c7ejkkpdbr990",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "отличная мойка приятный персонал особенно сергей приятный доброжелательный человек \nпо мойке пена отличная напор воды довольно хороший и не убитый пылисос(как в основном это бывает) \nно еще что понравилось есть оплата картой очень удобно \nрекомендую👍",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-12-18T08:21:27.859Z",
+      "reactions": {
+        "likes": 3,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [
+        {
+          "type": "photo",
+          "id": "11004775_2a0000018c7c0453afe59b4417ab2a3a8dae",
+          "businessId": "230669992285",
+          "urlTemplate": "https://avatars.mds.yandex.net/get-altay/11004775/2a0000018c7c0453afe59b4417ab2a3a8dae/{size}",
+          "createdTime": 1702887710079,
+          "moderation": {
+            "status": "ACCEPTED"
+          },
+          "showReactions": true,
+          "reactions": {
+            "likes": 0,
+            "dislikes": 0,
+            "userReaction": "NONE"
+          },
+          "copyright": {
+            "name": "Инкогнито 8118",
+            "publicId": "cqyy0j1mpyt73c7ejkkpdbr990",
+            "imageUrlTemplate": "",
+            "updateTime": 1702887710079,
+            "isSubscribed": false
+          }
+        }
+      ],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Благодарим за ваш отзыв",
+        "updatedTime": "2024-04-07T20:50:20.493Z"
+      },
+      "reviewId": "GHxShLcEi61Vqw35YCquGH1jISIH8-e",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Tamara She",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/38663/F3mUyPYrtejifjG3GQeeDzUrAa0-1/{size}",
+        "professionLevel": "Знаток города 8 уровня",
+        "publicId": "kdcd7q9cz5y95m1ntan373fbhm",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Не хочу рекламировать это место, чтобы не стоять в очереди;) Но… 15 минут и машина чистая Если вы любите ручной труд, вам подойдет Мылась только при плюсовой температуре, все ок При минусе, поскольку машина выезжает мокрая, наверное, будут проблемы с обзором Или еще плюс 10 минут, чтобы вытереть ее досуха а",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2024-03-29T16:18:51.796Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Благодарим за ваш отзыв",
+        "updatedTime": "2023-09-20T14:13:25.800Z"
+      },
+      "reviewId": "7MXEU4c0imbHxgVoBCTtfy5Hh2LpJkT",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Никита Гунько",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 6 уровня",
+        "publicId": "p1405hb431fug7vr7qnjyn7yv8",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Лучшая мойка самообслуживания, на которой я был! Очень благодарен администратору Сергею, который рассказал все основные секреты правильной мойки, которые помогли мне получить прекрасный результат :-)\nБуду теперь мыть машину здесь и вам рекомендую!",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-09-16T09:42:04.061Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [
+        {
+          "type": "photo",
+          "id": "11072941_2a0000018a9d5e67170a83a3ce8e3f1da284",
+          "businessId": "230669992285",
+          "urlTemplate": "https://avatars.mds.yandex.net/get-altay/11072941/2a0000018a9d5e67170a83a3ce8e3f1da284/{size}",
+          "createdTime": 1694857324773,
+          "moderation": {
+            "status": "ACCEPTED"
+          },
+          "showReactions": true,
+          "reactions": {
+            "likes": 0,
+            "dislikes": 0,
+            "userReaction": "NONE"
+          },
+          "copyright": {
+            "name": "Никита Гунько",
+            "publicId": "p1405hb431fug7vr7qnjyn7yv8",
+            "imageUrlTemplate": "",
+            "updateTime": 1694857324773,
+            "isSubscribed": false
+          }
+        }
+      ],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за оценку",
+        "updatedTime": "2023-09-20T14:13:21.691Z"
+      },
+      "reviewId": "drcMQzsO4a2TVA8oeK9Y8Ahm8ZsEzu",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Андрей Грибович",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/27232/enc-903515d3aab0d28a82ed952aa09cb0ed16ea0f871f9187b4698f218f5699bed8/{size}",
+        "professionLevel": "Знаток города 3 уровня",
+        "publicId": "paqvfnj78477mnq1gde2fzatm8",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Очень удобно рядом с домом, персонал очень отзывчивый, оплата наличными, но без проблем помогут, если у вас карта, время ожидания минимальное, в продаже и в аренду есть все для мойки(губки, щетки), и необходимая химия для салона.",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-09-16T14:44:24.994Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Благодарим Вас, Евгения, за прекрасный отзыв и высокую оценку нашей робот-мойки. Скидка действует до 30 июня.",
+        "updatedTime": "2024-06-06T08:13:07.879Z"
+      },
+      "reviewId": "-xcg7ac-1Drxt6EGBsqo6RraY2qhFI",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Евгения Карасева",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/38663/iwrXsHBmhXfHooXm8P8pDXG1Ws-1/{size}",
+        "professionLevel": "Знаток города 8 уровня",
+        "publicId": "vqfwfhmm64thtecx0wcm24y25c",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Приятно. У нас во дворе идёт ремонт и мне просто необходимо ополоснуть машину. Тут можно за 250₽ помыться с шампунем. Даже скидки в 50% делают. Удобное расположение. Мне нравится.",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2024-06-03T21:55:57.998Z",
+      "reactions": {
+        "likes": 2,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Благодарим за ваш отзыв",
+        "updatedTime": "2023-07-17T05:46:45.840Z"
+      },
+      "reviewId": "-nMX4eHHrdTih5mRNgs20GuySBYLJx8G",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Артем Олегович",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/54535/NwslUehxZs0GxrZlcJHmAmftmA-1/{size}",
+        "professionLevel": "Знаток города 14 уровня",
+        "publicId": "f0u92pqf7nny5dmpku89k9mf7w",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Одна из лучших моек на которой я \"мыслся\". Давление на все 100%, химия отличная! Есть щетки для мойки.\n\nКрытая, можно закрыть ворота.\n\nОплата как картой так и наличными \n\nУ администратора можно приобрести разную химию для автомобиля\n\nТак же есть и пылесос, мощность хорошая, цена 5 мин /50 руб\n\nНо есть один минус - пауза всего 30 сек, так что имейте это ввиду.",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-07-15T06:16:17.503Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо, мы старались",
+        "updatedTime": "2023-11-13T21:19:45.055Z"
+      },
+      "reviewId": "6ZDqNCjpIomh8H11LO7RsdB_AZpSy4WBG",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Александр Щ.",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 2 уровня",
+        "publicId": "9r41prhny3xpj9up47w5zb6pd4",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Очень хорошая мойка, контроль очереди, чистота. Качество химии хорошее. Грамотный доброжелательный администратор ответил на все вопросы. Есть оплата картой. Очень удобно.",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-11-11T13:19:42.258Z",
+      "reactions": {
+        "likes": 2,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за вашу оценку",
+        "updatedTime": "2023-11-13T21:19:39.247Z"
+      },
+      "reviewId": "wVvLYcG_-f9BahFnCaqNf7m_Y-BMw2B",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Николай",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 7 уровня",
+        "publicId": "7gx558njdm0tkjf6v285360bdc",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Очень комфортная мойка! За чистотой следят, администратор вежливо все пояснит и подскажет! Напор отличный, пена действительно работает. Однозначно буду заезжать!",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-11-11T11:30:21.977Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за приятный отзыв",
+        "updatedTime": "2024-03-12T08:45:53.254Z"
+      },
+      "reviewId": "jk3hhH1IasJKkzpLMM5aQtpBVORBcR",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Михаил Сапегин",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 4 уровня",
+        "publicId": "ah5rpnkutg2hae65jjbq25883m",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Решил заехать смыть примёрзший снег с колес, очень трясло. Пока ополаскивал подумал что за полумеры. Помыть машину оказалось гораздо выгоднее чем платить ребятам 4 500р. А тут за 20 минут\nспокойно помыл сам, и вышло на 600р всего. Выехал, и получил удовольствие от чистой машины, просто блеск. Спасибо, приеду ещё.",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2024-02-21T18:38:13.373Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за приятный отзыв",
+        "updatedTime": "2023-11-09T18:22:19.806Z"
+      },
+      "reviewId": "MtXrdp-T7pelBSV9h4gXTHKLYHUr8s",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Shoh M.",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/25817/jRdpgdZhggL6ROZ2swPiKbgpBkY-1/{size}",
+        "professionLevel": "Знаток города 2 уровня",
+        "publicId": "ubnh6j1cxg52pkywmkmn91exnc",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Отличная мойка, мою постоянно авто. Хорошая пена и смыв, мощный пылесос. Доброжелательный и отзывчивый персонал. Есть оплата картой и размер по необходимости. Рекомендую!!! ",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-11-07T06:59:57.155Z",
+      "reactions": {
+        "likes": 1,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за ваш отклик",
+        "updatedTime": "2023-11-13T21:19:47.832Z"
+      },
+      "reviewId": "lOtJP7iAXv0XvuIuTYckrAD51qqS8QJw4",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Фархат Асиенов",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/65952/BnjwVMOC5t4UAUua6ZHg9KUonIY-1/{size}",
+        "professionLevel": "Знаток города 11 уровня",
+        "publicId": "tc8gwwtgf070wgdbdt615689d8",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Мою постоянно отличная пена. Хороший персонал. Забыл коврик. Приехал. Все вернули. Доволен очень. Рекомендую. Быстро качественно не дорого. Есть безналичная оплата ",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-11-11T13:23:32.870Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Благодарим Вас, Fuat, за прекрасный отзыв и высокую оценку нашей робот-мойки.",
+        "updatedTime": "2024-05-16T07:38:21.401Z"
+      },
+      "reviewId": "YqpmWhYw8V0aDRerFVeGoalIiCX6RJawe",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Fuat M.",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/36689/HoYap6hGeC9o7LarS2v6Rx0JIIQ-1/{size}",
+        "professionLevel": "Знаток города 2 уровня",
+        "publicId": "unr2mu9y71n0d93yv73mj03wng",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Классная мойка! Быстро и качественно! Химия что надо! Хорошо отмывает грязь, и не только!",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2024-05-12T21:36:26.817Z",
+      "reactions": {
+        "likes": 3,
+        "dislikes": 1,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за приятный отклик",
+        "updatedTime": "2023-09-14T14:34:38.288Z"
+      },
+      "reviewId": "l8_qh68zanUr7lT-X6A142q6Y_TCrMI",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Сергей *.",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 2 уровня",
+        "publicId": "gt6b4n1nxghj5vwgjvvqwgamrg",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Самая лучшая мойка!! Пена очень качественная, вся химия отличная и профессиональная!! Есть пылесос и он просто супер!! Всегда есть размен!! Всем советую эту мойку!!!",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-09-12T11:09:08.428Z",
+      "reactions": {
+        "likes": 1,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за приятный отклик",
+        "updatedTime": "2023-11-09T13:59:43.928Z"
+      },
+      "reviewId": "EYg-xogsEKO7j-br0SMaDg2-2P9wK2Z",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Павел ффф",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 2 уровня",
+        "publicId": "g9tuwb1bvk970c2cma1u4m13d4",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Хороший персонал, отличное качество, пользуюсь часто. Хорошо и быстро проходит оплата, есть размер.есть оплата картой. Пылесос отличный мощный.",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-11-05T10:21:52.463Z",
+      "reactions": {
+        "likes": 1,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за ваш отзыв",
+        "updatedTime": "2024-04-07T20:50:08.070Z"
+      },
+      "reviewId": "RZgL7bSmLWFpYHDm-fwapzUkpxNdOZ6",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Capitalin Gromova",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/49368/4f1fdeEbaoLYZnzVBkleB4-1/{size}",
+        "professionLevel": "Знаток города 10 уровня",
+        "publicId": "jxg7m838a367v36jffd48vqe60",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Удобно, быстро, без ночных отказов в угоду таксомоторам. Нет воска, но помыться всегда быстро и легко.",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2024-03-19T05:02:29.965Z",
+      "reactions": {
+        "likes": 1,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за приятный отзыв",
+        "updatedTime": "2023-11-09T18:22:16.950Z"
+      },
+      "reviewId": "0QfCdKcLA1tY6PXNH9axRFF9ns5H0TPKl",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Andrey Krasnikov",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 3 уровня",
+        "publicId": "dv8h015rrw58kwgzfaytqedtz0",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Постоянно мою здесь автомобиль. Очень нравится. Приемлимые цены. Хороший напор смыва. Отличный персонал. Есть размен и оплата картой. Рекомендую ",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-11-07T16:05:41.029Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за ваш отзыв",
+        "updatedTime": "2023-03-21T06:11:46.913Z"
+      },
+      "reviewId": "m5oiBeF55lFV19oTag8hPdrdD69FtRDC",
+      "businessId": "230669992285",
+      "author": {
+        "name": "dinevsky",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/39249/enc-4d30d1e7b3416353388a59a1fe5b933c68cd824a0bb3e20219bde941c9c82a78/{size}",
+        "professionLevel": "Знаток города 4 уровня",
+        "publicId": "fxnqf2ukvtptzd0x0pcayweybr",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Мойка неплохая, напор очень крутой и сразу мощный, без разгона, пена хорошая, моешься бюджетно достаточно! Рекомендую всем, расположение удобное, цена отличная.",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-03-18T07:46:47.073Z",
+      "reactions": {
+        "likes": 4,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за вашу оценку",
+        "updatedTime": "2023-09-16T07:58:52.903Z"
+      },
+      "reviewId": "qf0oT2pIW80wFNj1ndJM8enAlGrkeWA",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Кристина А.",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 3 уровня",
+        "publicId": "yzu9661ctx0hjfwu3c0wnh3rxw",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Классная мойка, мою машину не первый раз)администратор отзывчивый и вежливый)все рассказал и подсказал)\nПоэтому не могу проехать мимо каждый раз, хочется мыть машину снова и снова )))",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-09-11T13:50:53.922Z",
+      "reactions": {
+        "likes": 1,
+        "dislikes": 1,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за вашу оценку",
+        "updatedTime": "2023-05-14T09:11:56.505Z"
+      },
+      "reviewId": "O3J56JfHSXgj5FBLW8x0RPdGVnExzW",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Даниил Калиничев",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 2 уровня",
+        "publicId": "0e35wjd3xmm9h4bj6jn9a58z00",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Суперская мойка для автомобиля! А самое главное что она закрытая! Для удобства мытья есть все! Освежить свой прекрасный автомобиль у вас получится быстро + комфортно! И за все удовольствие 100₽! Вау! ",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-05-12T18:54:54.514Z",
+      "reactions": {
+        "likes": 1,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за вашу оценку",
+        "updatedTime": "2023-11-09T13:59:41.701Z"
+      },
+      "reviewId": "317kY0MJHI_uD0LYHNbxV3d2wPaoPIZ",
+      "businessId": "230669992285",
+      "author": {
+        "name": "николай а.",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 3 уровня",
+        "publicId": "f11d7k9hm0kt4x3xqvym8tchxr",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Регулярно мою здесь авто, всё нравиться, хороший напор и хороший пылесос. Есть оплата картой, есть размен. Отличный персонал. Рекомендую.",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-11-05T10:27:41.481Z",
+      "reactions": {
+        "likes": 1,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо, мы старались",
+        "updatedTime": "2023-11-09T13:59:45.895Z"
+      },
+      "reviewId": "KlBz3E1nTYpKy6pTbn5gFKGJ3Hr8zXoXl",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Александр Шандро",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/40841/FRsDn17ZrfUZc4PdxmOxiVc4-1/{size}",
+        "professionLevel": "Знаток города 8 уровня",
+        "publicId": "f763gv7dgfbg1q3xjzwcggvpv0",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Приехал первый раз, хороший напор воды и мощный пылесос. Рекомендую, есть оплата картой. Вежливый и грамотный персонал! Буду приезжать ещё.",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-11-05T08:55:17.525Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за такой отзыв",
+        "updatedTime": "2023-10-22T14:35:51.892Z"
+      },
+      "reviewId": "Oj0yi8tKh1jsmgo1fPnJRiiCpPfPcNB",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Андрей Фрунчак",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 2 уровня",
+        "publicId": "18frj3zec7w2bnzjm4ht04k9xr",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Удобный бокс, хорошая химия, воск. Мощный напор воды. Хороший пылесос. Заслуженные 5 звёзд. Есть оплата картой. Размен. Рекомендую для постоянного пользования. ",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-10-18T14:23:18.803Z",
+      "reactions": {
+        "likes": 1,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за приятный отклик",
+        "updatedTime": "2023-11-13T21:19:53.073Z"
+      },
+      "reviewId": "yJlfac1IY6Pmq7YuX3npUPmvkmBYIgyJ",
+      "businessId": "230669992285",
+      "author": {
+        "name": "ГУРАМИ Коландария",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 4 уровня",
+        "publicId": "w8n3m4kkc29z06hw0bxvu14y2c",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "\nТеперь я постоянный клиент этой мойки. Всё очень понравилось. Хорошее обслуживание персонала. Есть оплата картой, Всё супер. Рекомендую и другим передам",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-11-11T14:24:52.434Z",
+      "reactions": {
+        "likes": 2,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за вашу оценку",
+        "updatedTime": "2023-08-03T07:41:41.513Z"
+      },
+      "reviewId": "gfuWpTRr4ct9SXV2jhz4AFaci6BFNewG",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Денис C",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/38663/enc-5bf0ec1049b0a11ab7d134fc27149b0a96e54933f834e4d5de9e1c5ab6d07f73/{size}",
+        "professionLevel": "Знаток города 5 уровня",
+        "publicId": "xwdma9ynu5cffuxk7wtp75yrg0",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Шикарная мойка, теплые боксы, отличная пена и напор\nПриятные и клиентоориентированные сотрудники, которые всегда подскажуткак правильно и помогут",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-07-31T06:42:12.212Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за вашу оценку",
+        "updatedTime": "2023-09-20T14:13:23.768Z"
+      },
+      "reviewId": "qITMw_ouYUDOhhm_CydCYkQyDunXGYTA",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Дмитрий С.",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 7 уровня",
+        "publicId": "up4kzmbzc2b5t8zp745h1zm5m0",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Удобная мойка самообслуживания, есть все необходимые функции, тарифы стандартные. Насчёт режима ожидания владелец мойки может подсказать. Оплата наличными либо картой. Есть место для просушки машины, кран (помыть губку и т.д.).",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-09-16T11:01:45.396Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [
+        {
+          "type": "photo",
+          "id": "10589039_2a0000018a9da762e2671d57fb28d93607d9",
+          "businessId": "230669992285",
+          "urlTemplate": "https://avatars.mds.yandex.net/get-altay/10589039/2a0000018a9da762e2671d57fb28d93607d9/{size}",
+          "createdTime": 1694862108565,
+          "moderation": {
+            "status": "ACCEPTED"
+          },
+          "showReactions": true,
+          "reactions": {
+            "likes": 0,
+            "dislikes": 0,
+            "userReaction": "NONE"
+          },
+          "copyright": {
+            "name": "Дмитрий С.",
+            "publicId": "up4kzmbzc2b5t8zp745h1zm5m0",
+            "imageUrlTemplate": "",
+            "updateTime": 1694862108565,
+            "isSubscribed": false
+          }
+        }
+      ],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за вашу оценку",
+        "updatedTime": "2023-09-16T07:59:12.772Z"
+      },
+      "reviewId": "HAtFor2PQbFU33SGbGxCgoipMCIV8MRCR",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Инкогнито 2720",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 2 уровня",
+        "publicId": "0dp991hm7kp6kt3n0g775jpvcc",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Мойка огонь,самые доступные цены,пылесос лучший ,50 рублей можно фуру пропылесосить !!!персонал вежливый ,пена розовая не обычно ,но хорошая!!давление хорошее,режим работы 24/7",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-09-11T14:48:03.599Z",
+      "reactions": {
+        "likes": 1,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Благодарим за ваш отзыв",
+        "updatedTime": "2023-09-14T14:34:35.265Z"
+      },
+      "reviewId": "B8BsOHcTppOV7W1X8Mr16qtrtStkE4SX0",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Магомед С.",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 2 уровня",
+        "publicId": "8r4z29bwby5hykucy1ekxf7ay4",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Первый раз попробовал данную мойку, хорошая пена, отличный напор смыва. Пылесос вообще шикарный. За небольшие деньги весь комплекс с ковриками. Есть размен. Рекомендую!!",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-09-12T10:43:15.839Z",
+      "reactions": {
+        "likes": 1,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за вашу оценку",
+        "updatedTime": "2023-08-03T07:40:42.305Z"
+      },
+      "reviewId": "-5unLzJlOP-iXiru9t1A3JMLgRulkHL3B",
+      "businessId": "230669992285",
+      "author": {
+        "name": "499019 Фильчиков",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 3 уровня",
+        "publicId": "pq5uyzthn9ju2qy4vw0m39a8aw",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Супер мойка самообслуживания,  оборудование отличного уровня,   вода пена все супер !!! Большой ассортимент товаров для мойки ",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-07-31T13:09:42.465Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо, что оценили",
+        "updatedTime": "2023-12-11T10:50:42.425Z"
+      },
+      "reviewId": "xkb0fJ2u9amRYO7pKgutEVmpQW4e-w",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Иван Конаков",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/40138/K8F4Y9wtqxr6ZMkU5nLloGNKw-1/{size}",
+        "professionLevel": "Знаток города 5 уровня",
+        "publicId": "04ed0b1whgnun3mnqe7mk53pq0",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Отличная мойка. Открыл для себя случайно, когда искал где поблизости сполоснуть машину. Химию не разбавляют, сама химия качественная, напор такой что пистолет из рук выбивает, непривычно)))\nАдминистраторы на мойке дружелюбные, всегда подскажут и помогут если это нужно.",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-12-08T17:19:04.213Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за приятный отзыв",
+        "updatedTime": "2023-11-12T19:43:55.840Z"
+      },
+      "reviewId": "hS9HNklF2YfjykXT-pH2uTo9QdN-Ey4p5",
+      "businessId": "230669992285",
+      "author": {
+        "name": "шамиль эскаев",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 3 уровня",
+        "publicId": "aw3zk43pe2d7yacyep6bk9xz30",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Приехал первый раз самая лучшая мойка. Пена хорошая, очень хороший пылесос. Смыв мощный , есть оплата картой. Очень хороший персонал. Теперь постоянный клиент👍🏻",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-11-10T13:02:06.992Z",
+      "reactions": {
+        "likes": 1,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за вашу оценку",
+        "updatedTime": "2023-10-14T17:25:47.351Z"
+      },
+      "reviewId": "vqon25Tih8S1CYpLakIGPnmp-Z3VUx",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Андрей Солопов",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 3 уровня",
+        "publicId": "2j1a98g1fvrqh6zt79py95z2v8",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Приехал в первый раз всё понравилось, хорошая пена, напор кëрхера очень хороший, пылесос, оплата картой, наличкой, администратор всë подсказал, рассказал, короче рекомендую👍👍👍",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-10-11T10:01:31.329Z",
+      "reactions": {
+        "likes": 1,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за добрые слова! Всегда рады! ",
+        "updatedTime": "2023-02-06T11:26:06.810Z"
+      },
+      "reviewId": "lgDp1jx98ac3KtLYLjhOWmuemCTjCYLS",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Марина И.",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 4 уровня",
+        "publicId": "12x6dc7j13bt8auc3y9zw09048",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Мойка хорошая, быстро и качественно за эти деньги, привезла детей в спортшколу на молдагуловой, решила помыть машину, пока жду с тренировки, все сделали быстро и чисто, спасибо вам ребятки.\n",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-02-05T12:46:31.593Z",
+      "reactions": {
+        "likes": 3,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Большое спасибо за Ваш Отзыв! ",
+        "updatedTime": "2023-08-06T10:18:53.506Z"
+      },
+      "reviewId": "bsMYG8v11Y1ycseGJ6OZ-O9wDwk3RVf7K",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Василий К.",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/27274/xLCCKhNNtNHG3gntdRs4dd86Uk-1/{size}",
+        "professionLevel": "Знаток города 2 уровня",
+        "publicId": "2rjf6n2bnbyba6hmra9den9wd8",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Автомойка бюджетная-бомба, помыл кроссовер за 150 рублей, пылесос работает отлично, высосал даже то что не было необходимости высасывать 😅, шучу, Администраторы на 5+, пена 5+, вода 5+, Рекомендую, Сам по жизни педант, кто знает тот понимает, посему ещё раз  настоятельно рекомендую... Спасибо Организаторам! \n\n",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-08-04T08:25:37.378Z",
+      "reactions": {
+        "likes": 1,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за приятный отзыв",
+        "updatedTime": "2023-09-20T14:13:33.295Z"
+      },
+      "reviewId": "ZXOREjho3XL8LOeNMGMEACtxEcoU_twnU",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Максим Щ.",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/47747/enc-1aaa44b8dd58b4033062b9d7138136e98bfa8b81602505a17b1360de4b85789a/{size}",
+        "professionLevel": "Знаток города 3 уровня",
+        "publicId": "2qacarnt1pk92g306gvxg6733w",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Моюсь на этой мойке постоянно! Хорошая пена и хороший напор, смывает всю грязь без губок и прочих вещей. Есть размен денег и приветливый администратор, готовый всегда помочь и подсказать! Все комфортно и отлично! Скоро будет возможна оплата картой и тогда вообще никаких проблем, советую!",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-09-16T07:39:26.689Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за приятный отклик",
+        "updatedTime": "2023-08-30T16:34:17.274Z"
+      },
+      "reviewId": "3Z8NmUzvHGPngT3E9QeOIVqUVn0yrch",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Землянин",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/45131/X79Gb5LZyjxsDWknfAk6NR4-1/{size}",
+        "professionLevel": "Знаток города 20 уровня",
+        "publicId": "7eckb5mxy4zmvgavq6nk6xarym",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "недорого. быстро. очень приятный персонал - помогли со всем разобраться и помыть. спасибо.",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-08-29T09:23:55.337Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за такой отзыв",
+        "updatedTime": "2024-03-12T08:46:02.223Z"
+      },
+      "reviewId": "iE3327ZIR40DUvdz3GzTQ4wgwRytFPN2V",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Даниил Гранкин",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/36689/K1ou5sYCdOPYwn4Ekl5YeehQnpI-1/{size}",
+        "professionLevel": "Знаток города 9 уровня",
+        "publicId": "u1kbc0qnzwv5k7135jtag9t8gg",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Все понравилось, тепло, ценник нормальный, на 200 рублей техничку можно сделать ",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2024-02-25T16:53:22.550Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Благодарим Вас, Рахим, за прекрасный отзыв и высокую оценку нашей робот-мойки без щеток.\nОценка от опытного пользователя робот-моек особенно ценна.",
+        "updatedTime": "2024-07-01T19:30:05.325Z"
+      },
+      "reviewId": "atKYGK1_HutbP3jG-ghqanMuCv8G86",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Рахим Керефов",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/45848/mYJyMrep3LcEuv2fYn5DP6wfmsg-1/{size}",
+        "professionLevel": "Знаток города 11 уровня",
+        "publicId": "z9mmq1n1p02m8e1rm2edw1753w",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Я на много умных мойках мылся здесь дешевле и на много лучше. ",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2024-06-28T16:27:41.494Z",
+      "reactions": {
+        "likes": 1,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за ваш отзыв",
+        "updatedTime": "2023-10-31T17:27:35.348Z"
+      },
+      "reviewId": "W3SaKDQxOwXiKcvz0-08o0mFkq9hYD",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Надежда К.",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 3 уровня",
+        "publicId": "bbqggt5fx3xgcbm1y8fy65ghv4",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Приехал первый раз, обалденный напор. Администратор выдал стремянку помыть крышу минивена. Есть оплата картой. Есть пылесос. Хорошая химия. Есть размен по необходимости",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-10-27T12:16:32.378Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за ваш отзыв",
+        "updatedTime": "2023-10-11T10:16:28.414Z"
+      },
+      "reviewId": "WjB2tNXL1xEso_IvKSkexxhqIoZMw2W",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Muslim Murodov",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 4 уровня",
+        "publicId": "0d8bj67jz3t0ygth6vfg1aqtem",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Мою регулярно авто, хорошая химия, отличный напор смыва, мощный пылесос. Есть оплата картой, есть размен. Отличный персонал, поможет если что то непонятно.",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-10-06T07:53:21.755Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Благодарим за ваш отзыв, аппарат принимает оплату картой. ",
+        "updatedTime": "2023-10-22T14:36:39.416Z"
+      },
+      "reviewId": "eS4eP9o52fP4pfRY96n2NdbfLWhdueq",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Денис Волков",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/40841/L3afgHxfYujT3rhrQH3KdGyZ4U-1/{size}",
+        "professionLevel": "Знаток города 12 уровня",
+        "publicId": "05523fzvh8jwzma5139p2czjyg",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Заезжал на мойку разок.\nАвтомат принимал только наличку!\nУже хотел уезжать ,но работник предложил перевести ему дс на карту ,а он наличкой даст сколько надо-вот это сервис!\nНо самое важное это напор воды и качество пены -на высоте!\nместо очень популярное ,особенно у такси!\nКак погода хорошая -очередь аж от светофора)",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-10-20T10:53:48.061Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо, мы старались",
+        "updatedTime": "2024-03-21T13:45:45.879Z"
+      },
+      "reviewId": "7MRgOp6J9SM9H7z0MzNyi2x3uoNFt4xR",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Garazhane Garazhane",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/54535/p951JD4wNdp1rgU7bOGWVU5pb70-1/{size}",
+        "professionLevel": "Знаток города 5 уровня",
+        "publicId": "vjxp71ryt7rr90d80f45cft2cr",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Удобно хорошо, ну единственное это бывают очереди ",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2024-03-15T18:01:13.421Z",
+      "reactions": {
+        "likes": 1,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за приятный отклик",
+        "updatedTime": "2023-08-30T16:31:31.252Z"
+      },
+      "reviewId": "NNxsIGXqVB5evwBXdBHBxlcFQ2SSgZ",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Igor",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/35885/zvGXtWxFZPaNe7o2QAKHHCs08-1/{size}",
+        "professionLevel": "Знаток города 11 уровня",
+        "publicId": "by0p14gd5q5nvh8cry0d8cxhu4",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Пена отличная\nНапор воды мощный\n\nНа районе удобная мойка\n\nВремя ожидания минимальное, видимо повезло\n\nЕсть пылесос.\n\nКупюроприемник на 50 и 100 рублей.",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-08-27T11:17:12.039Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    },
+    {
+      "businessComment": {
+        "text": "Спасибо за оценку",
+        "updatedTime": "2023-12-06T18:06:23.460Z"
+      },
+      "reviewId": "MjLGQqlqOwtzBGDKMhg4-e6TruvoW_Mi",
+      "businessId": "230669992285",
+      "author": {
+        "name": "Копейкин Андрей",
+        "avatarUrl": "",
+        "professionLevel": "Знаток города 9 уровня",
+        "publicId": "rpqt2txb1jae0mh7bjz3auukg4",
+        "achievements": [],
+        "professions": [],
+        "isSubscribed": false
+      },
+      "text": "Отличная самомойка! Быстро и удобно, единственный минус-короткая пауза при мойке.",
+      "textLanguage": "ru",
+      "textTranslations": {},
+      "rating": 5,
+      "updatedTime": "2023-12-03T18:00:24.173Z",
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "userReaction": "NONE"
+      },
+      "photos": [],
+      "videos": []
+    }
+  ]
+}

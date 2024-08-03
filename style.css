@@ -71,6 +71,7 @@ h3 {
 
 .page__section__advantages,
 .page__section__price,
+.page__section__reviews,
 .page__section__address {
 	min-height: 100vh;
 }
@@ -364,6 +365,7 @@ nav a:focus {
 .header-block2__container,
 .header-block3__container,
 .advantages__container,
+.reviews__container,
 .price__container {
 	display: flex;
 	flex-wrap: wrap;

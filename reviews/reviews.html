@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Отзывы</title>
+	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+	<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+	<div class="sw-app-body sw-animation">
+		<div class="rating-summary">
+			<div class="rating-summary-content">
+				<span id="rating-value">4.5</span>&nbsp;из 5.0<span id="rating-stars">&nbsp;</span>на
+				основе&nbsp;<span id="review-count">220</span>&nbsp;<span id="review-declension">отзывов</span>
+			</div>
+
+			<a href="https://yandex.ru/maps/org/robot_moyka/206303276164/reviews/?add-review=true" target="_blank"
+				class="review-button" rel="nofollow">Оставить отзыв</a>
+		</div>
+
+		<div class="review-carousel swiper-container">
+			<div class="swiper-wrapper">
+				<!-- Слайды будут добавляться динамически -->
+			</div>
+			<!-- Кнопки управления каруселью -->
+			<button class="carousel-button prev" aria-label="Предыдущий отзыв">&#9664;</button>
+			<button class="carousel-button next" aria-label="Следующий отзыв">&#9654;</button>
+		</div>
+	</div>
+
+	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+	<script src="script.js"></script>
+</body>
+
+</html>
