@@ -7,8 +7,8 @@
 	<title>Робот-мойка без щеток</title>
 	<link rel="canonical" href="https://роботмойка24.рф/вешняки/" />
 	<link rel="stylesheet" href="/style.css">
-	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
-	<link rel="stylesheet" href="./reviews/reviews.css">
+	<link rel="stylesheet" href="/reviews/swiper-bundle.min.css" />
+	<link rel="stylesheet" href="/reviews/reviews.css">
 	<link rel="icon" href="/favicon-120.ico" type="image/x-icon">
 	<meta name="keywords" content="робот-автомойка без щеток скольники" />
 	<meta name="description" content="Роботизированная автомобильная мойка: Москва, Большая Оленья, 20" />
@@ -290,16 +290,31 @@
 				Контакты
 			</h2>
 
-			<div class="header-block2__container">
+			<div class="header-block2__container" itemscope itemtype="https://schema.org/AutoWash">
+				<meta itemprop="name" content="Робот-мойка без щеток" />
+				<meta itemprop="image" content="https://роботмойка24.рф/images/logo.png" />
+				<meta itemprop="url" content="https://роботмойка24.рф/сокольники/" />
+				<meta itemprop="priceRange" content="250-700₽" />
+				<meta itemprop="paymentAccepted" content="банковские карты, наличные" />
+				<meta itemprop="openingHours" content="Mo-Su" />
 				<div class="header-block2__item contacts__address">
 					<a href="https://yandex.ru/maps/org/206303276164/"
 						onclick="ym(97505866, 'reachGoal', 'address'); return true;" rel="nofollow noopener" target="_blank">
-						Москва, ул. Большая Оленья, 20
+						<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+							<meta itemprop="addressCountry" content="RU" />
+							<meta itemprop="postalCode" content="107014" />
+							<span itemprop="addressLocality">Москва</span>, <span itemprop="streetAddress">
+								ул. Большая Оленья, 20
+							</span>
+						</span>
 					</a>
 				</div>
 				<div class="header-block2__item contacts__telephone">
 					<a href="tel:+79998973900" onclick="ym(97505866, 'reachGoal', 'telephone'); return true;"
-						rel="nofollow noopener" target="_blank">+7 (999) 897-39-00
+						rel="nofollow noopener" target="_blank">
+						<span itemprop="telephone">
+							+7 (999) 897-39-00
+						</span>
 					</a>
 				</div>
 				<div class="header-block2__item contacts__operating-mode">Режим работы: круглосуточно</div>
@@ -381,8 +396,8 @@
 	<div class="parallax-5"></div>
 
 	<script async="" src="/utils.js"></script>
-	<script defer="" src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-	<script defer="" src="./reviews/reviews.js"></script>
+	<script defer="" src="/reviews/swiper-bundle.min.js"></script>
+	<script defer="" src="/reviews/reviews.js"></script>
 
 	<!-- Yandex.Metrika counter -->
 	<script type="text/javascript">
