@@ -1,2 +1,9 @@
 User-Agent: *
 Allow: /
+
+User-agent: Yandex
+Clean-param: utm
+Clean-param: utm_referer
+Clean-param: utm_ya_campaign
+Clean-param: yabizcmpgn
+Clean-param: utm_candidate

@@ -408,16 +408,24 @@ nav a:focus {
 	box-shadow: 10px 5px 5px var(--shadow-color);
 }
 
-.gallery__video__frame {
-	width: 100%;
-	aspect-ratio: 16 / 9;
-
-	margin: 0 0 40px 0;
+.gallery__video__frame,
+.gallery__shorts__frame {
+	margin: 0 auto 40px auto;
 	padding: 0px 0;
 	background-color: #fff;
 	border: black solid 1px;
 	border-radius: 10px;
 	box-shadow: 10px 5px 5px var(--shadow-color);
+}
+
+.gallery__video__frame {
+	width: 100%;
+	aspect-ratio: 16 / 9;
+}
+
+.gallery__shorts__frame {
+	width: 335px;
+	height: 580px;
 }
 
 .gallery__video {
